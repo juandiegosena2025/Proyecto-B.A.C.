@@ -332,9 +332,7 @@ MQTT / HTTPS -> Dashboard Ubidots / AWS IoT + Alertas
 *Entidad:* Servicio Nacional de Aprendizaje (SENA) - CTMAE / Red Tecnoparque Nodo Medellín
 *Lugar y Fecha:* Cisneros, Antioquia, Colombia - 28 agosto de 2026
 
-📄 Licencia
-
-Este proyecto es de código abierto bajo Licencia MIT para fines educativos y de prototipado. Para uso comercial / industrial, contactar a los autores.
+📄 Licencia: Todos los derechos reservados. Uso educativo y de demostración. Prohibido uso comercial sin autorización de los autores. 
 
 📞 Contacto para Piloto Empresarial
 
