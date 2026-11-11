@@ -1,3 +1,4 @@
+<img width="1280" height="960" alt="IMG-20261110-WA0005" src="https://github.com/user-attachments/assets/745da983-ee52-4fa2-a59f-bb9342115015" />
 B.A.C. - Base de Agua y Control
 
 Sistema IoT de Monitoreo Hídrico en Tiempo Real
