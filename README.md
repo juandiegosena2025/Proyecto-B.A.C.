@@ -345,11 +345,3 @@ Este proyecto es de código abierto bajo Licencia MIT para fines educativos y de
 Contactar vía GitHub Issues o LinkedIn de los autores.
 
 ---
-
-**Instrucción rápida para pegar en GitHub:**
-1. En tu repo, dale a `Add file > Create new file`
-2. Nombre: `README.md`
-3. Pega TODO el cuadro de arriba
-4. Dale a `Commit changes`
-
-Listo. Solo te falta subir la foto como `docs/foto-prototipo.jpg` para que no salga el cuadrito roto.
