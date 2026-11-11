@@ -332,7 +332,19 @@ MQTT / HTTPS -> Dashboard Ubidots / AWS IoT + Alertas
 *Entidad:* Servicio Nacional de Aprendizaje (SENA) - CTMAE / Red Tecnoparque Nodo Medellín
 *Lugar y Fecha:* Cisneros, Antioquia, Colombia - 28 agosto de 2026
 
-📄 Licencia: Todos los derechos reservados. Uso educativo y de demostración. Prohibido uso comercial sin autorización de los autores. 
+📄 Derechos de Autor y Licencia
+
+© 2026 Daniela Herrera Osorio & Juan Diego Sepúlveda Jiménez - Todos los derechos reservados.
+Proyecto desarrollado en SENA CTMAE / Red Tecnoparque Nodo Medellín - Iniciativa MAX CAMPO.
+
+**Este repositorio es de carácter demostrativo y académico.**
+Se publica para evidenciar trayectoria técnica y validación en campo del prototipo B.A.C. v1.0.
+
+**Prohibido el uso comercial, reproducción, venta o implementación industrial sin autorización escrita de los autores y del SENA - Red Tecnoparque Medellín.**
+
+El código, documento maestro y prototipo físico están en proceso de registro ante la Dirección Nacional de Derecho de Autor (DNDA) y evaluación de protección de propiedad intelectual ante la Superintendencia de Industria y Comercio (SIC) - Colombia.
+
+Para uso comercial, piloto empresarial o transferencia tecnológica, contactar a los autores vía GitHub Issues.
 
 📞 Contacto para Piloto Empresarial
 
