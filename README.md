@@ -322,7 +322,7 @@ MQTT / HTTPS -> Dashboard Ubidots / AWS IoT + Alertas
 👥 Autores y Acompañamiento
 
 *Autores:*
-- *Daniela Herrera Osorio* - ADSO Ficha 3002645
+- *Daniela Osorio Herrera* - ADSO Ficha 3002645
 - *Juan Diego Sepúlveda Jiménez* - ADSO Ficha 3002645
 
 *Acompañamiento Técnico:*
